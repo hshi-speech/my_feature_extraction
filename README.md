@@ -1,5 +1,5 @@
 # my_feature_extraction
-I have add some feature extraction function for torchaudio. 
+I have add some feature extraction function for torchaudio==0.7. 
 * waveform -> spectrogram(original codes) 
 * spectrogram -> fbank(modified)
 * fbank -> mfcc(modified)
